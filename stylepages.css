@@ -34,3 +34,8 @@ a {
   ul.articles li {
     margin-bottom:auto;
   }
+
+  article {
+    display: block;
+    margin-bottom: 20px;
+  }
