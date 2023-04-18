@@ -5,7 +5,7 @@ body {
   nav.my-nav {
     background-color: #fff;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     border-bottom: none;
   }
@@ -18,8 +18,7 @@ body {
     padding: 10px;
   }
   nav.my-nav a:hover {
-    background-color: #000;
-    color: #fff;
+    color:greenyellow;
   }
   
 
