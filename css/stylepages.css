@@ -1,0 +1,40 @@
+body {
+    font-family: 'Satoshi', sans-serif;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0 10px;
+  }
+  
+  a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px;
+  }
+  a:hover {
+    color: greenyellow;
+    background-color: transparent;
+  }
+  
+
+  ul.articles {
+    list-style: none;
+  }
+  
+  ul.articles li {
+    margin-bottom: 20px;
+  }
+  
+  article {
+    display: block;
+  }
