@@ -4,7 +4,12 @@ body {
   
   article {
     margin-top: 50px;
-    list-style:none;
+  }
+
+  ul.articles li {
+    margin-bottom: 10px;
+    list-style: none;
+
   }
   
   article h2 {
