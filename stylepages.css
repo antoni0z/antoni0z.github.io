@@ -2,21 +2,43 @@ body {
     font-family: 'Satoshi', sans-serif;
   }
   
-  article {
-    margin-top: 50px;
+  nav {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
-
-  ul.articles li {
-    margin-bottom: 10px;
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin: 0 10px;
+  }
+  
+  a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px;
+  }
+  
+  a:hover {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  ul.articles {
     list-style: none;
-
   }
   
-  article h2 {
-    margin-bottom: 10px;
+  ul.articles li {
+    margin-bottom:auto;
   }
-  
-  article p {
-    line-height: 1.5;
-  }
-  
