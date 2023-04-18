@@ -23,6 +23,7 @@ body {
   }
   a:hover {
     color: greenyellow;
+    background-color: transparent;
   }
   
 
