@@ -35,6 +35,5 @@ li {
 }
 
 a:hover {
-  background-color: #000;
-  color: #fff;
+  color:greenyellow;
 }
