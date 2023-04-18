@@ -22,10 +22,10 @@ body {
     padding: 10px;
   }
   
-  a:hover {
+  /* a:hover {
     background-color: #000;
     color: #fff;
-  }
+  } */
   
   ul.articles {
     list-style: none;
