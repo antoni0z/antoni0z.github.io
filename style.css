@@ -33,6 +33,11 @@ ul {
 li {
   margin: 0 10px;
 }
+a {
+    color: #000;
+    text-decoration: none;
+  }
+  
 
 a:hover {
   color:greenyellow;
