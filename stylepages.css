@@ -1,26 +1,18 @@
-body {
+ body {
     font-family: 'Satoshi', sans-serif;
-  }
-  
-  nav {
-    background-color: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  ul {
+  } 
+ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
   }
   
-  li {
+ li {
     margin: 0 10px;
   }
   
-  a {
+a {
     display: block;
     color: #000;
     text-decoration: none;
