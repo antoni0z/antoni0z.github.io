@@ -21,7 +21,10 @@ body {
     text-transform: uppercase;
     padding: 10px;
   }
-  
+  a:hover {
+    color: green;
+  }
+
   ul.articles {
     list-style: none;
   }
